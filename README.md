@@ -6,4 +6,6 @@ There are two important folders under the main branch, model_data and model_xgb:
 
 2.model_xgb file is a packaged model file that can be directly run when imported into python without retraining the model.
 
-Import a pkl file: joblib.load(open("model_xgb.pkl", 'rb'))
+Import a pkl file: 
+
+		#joblib.load(open("model_xgb.pkl", 'rb'))
