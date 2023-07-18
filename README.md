@@ -8,9 +8,9 @@ There are two important folders under the main branch, model_data and model_xgb:
 
 	Insulin therapy: 1-No,2-Yes
 	
-	dependent variable: Group
+	Dependent variable: Group
 
-3. model_xgb file is a packaged model file that can be directly run when imported into python without retraining the model.
+3. The model_xgb file is a packaged model file that can be directly run when importing into python without retraining the model.
 
 Import a pkl file: 
 
