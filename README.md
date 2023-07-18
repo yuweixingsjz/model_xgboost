@@ -8,7 +8,7 @@ There are two important folders under the main branch, model_data and model_xgb:
 	
 	dependent variable: Group
 
-2.model_xgb file is a packaged model file that can be directly run when imported into python without retraining the model.
+2. model_xgb file is a packaged model file that can be directly run when imported into python without retraining the model.
 
 Import a pkl file: 
 
